@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F43E6E76-F902-4B4A-B41F-AAAC4EF4582E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CollectionView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4394DBE-B5E7-4AD1-B8E5-E00A2EF8BDDE</key>
+		<string>https://github.com/JoeSelvik/CollectionView-Simple.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CollectionView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4394DBE-B5E7-4AD1-B8E5-E00A2EF8BDDE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JoeSelvik/CollectionView-Simple.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F4394DBE-B5E7-4AD1-B8E5-E00A2EF8BDDE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4394DBE-B5E7-4AD1-B8E5-E00A2EF8BDDE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CollectionView-Simple</string>
+		</dict>
+	</array>
+</dict>
+</plist>
